@@ -13,8 +13,6 @@ I'm an Information Technology student from Indonesia.
 • Cloud Computing
 • Networking
 • Docker
-• Open Source
-• Cyber Security
 
 🌱 Currently learning
 
