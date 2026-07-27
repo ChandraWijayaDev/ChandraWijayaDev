@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**ChandraWijayaDev/ChandraWijayaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chandra Wijaya
 
-Here are some ideas to get you started:
+Hi, I'm Chandra Wijaya 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Information Technology student from Indonesia.
+
+🚀 I'm interested in
+
+• Linux
+• Proxmox VE
+• Cloud Computing
+• Networking
+• Docker
+• Open Source
+• Cyber Security
+
+🌱 Currently learning
+
+• Git
+• GitHub
+• Python
+• Docker
+• CI/CD
+
+📫 Connect with me
+
+GitHub: [github.com/ChandraWijayaDev](https://github.com/ChandraWijayaDev)
