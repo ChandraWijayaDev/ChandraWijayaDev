@@ -24,4 +24,4 @@ I'm an Information Technology student from Indonesia.
 
 📫 Connect with me
 
-GitHub: [github.com/ChandraWijayaDev](https://github.com/ChandraWijayaDev)
+GitHub: [github.com/chandrawijaya228](https://github.com/chandrawijaya228)
